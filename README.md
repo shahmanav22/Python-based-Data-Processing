@@ -25,3 +25,7 @@ This project demonstrates fundamental data processing techniques using Python an
 ## Learning Outcome
 
 This project demonstrates practical data manipulation skills required for preparing datasets before exploratory data analysis and machine learning.
+
+## Author
+
+Manav Shah
